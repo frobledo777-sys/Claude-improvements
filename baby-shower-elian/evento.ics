@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Invitacion Elian Marcelo//Baby Shower//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:baby-shower-elian-marcelo-20261128@invitacion
+DTSTAMP:20261103T120000Z
+DTSTART:20261128T210000Z
+SUMMARY:Baby Shower de Elián Marcelo
+LOCATION:Salón La Candelaria\, Carretera a Matehuala #9902\, Soledad de Gr
+ aciano Sánchez\, San Luis Potosí\, México
+DESCRIPTION:Hora de inicio: 3:00 p. m. (hora del centro de México).\n¡Te 
+ esperamos con muchísimo cariño! 💚\nCómo llegar: https://www.google.c
+ om/maps/search/?api=1&query=Sal%C3%B3n%20La%20Candelaria%2C%20Carretera%20
+ a%20Matehuala%20%239902%2C%20Soledad%20de%20Graciano%20S%C3%A1nchez%2C%20S
+ an%20Luis%20Potos%C3%AD%2C%20M%C3%A9xico
+URL:https://www.google.com/maps/search/?api=1&query=Sal%C3%B3n%20La%20Cande
+ laria%2C%20Carretera%20a%20Matehuala%20%239902%2C%20Soledad%20de%20Gracian
+ o%20S%C3%A1nchez%2C%20San%20Luis%20Potos%C3%AD%2C%20M%C3%A9xico
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Mañana es el Baby Shower de Elián Marcelo 💚
+END:VALARM
+END:VEVENT
+END:VCALENDAR

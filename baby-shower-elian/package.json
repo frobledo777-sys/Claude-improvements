@@ -1,0 +1,14 @@
+{
+  "name": "baby-shower-elian",
+  "private": true,
+  "description": "Invitación web animada para el Baby Shower de Elián Marcelo",
+  "scripts": {
+    "build": "node src/build.js && node src/render.js",
+    "check": "node src/check.js"
+  },
+  "devDependencies": {
+    "jsqr": "^1.4.0",
+    "pngjs": "^7.0.0",
+    "qrcode": "^1.5.4"
+  }
+}
